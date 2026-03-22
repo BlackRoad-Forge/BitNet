@@ -1,3 +1,13 @@
+# RoadBit — BlackRoad 1-bit LLM inference framework for edge deployment.
+
+> Part of the [BlackRoad OS](https://blackroad.io) sovereign technology ecosystem.
+> Licensed under [BlackRoad OS, Inc. Proprietary License](./LICENSE).
+
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=flat-square)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-black?style=flat-square)](./LICENSE)
+
+---
+
 # bitnet.cpp
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![version](https://img.shields.io/badge/version-1.0-blue)
